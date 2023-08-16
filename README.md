@@ -1,9 +1,9 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oxanium&duration=3000&pause=500&color=32FF55DA&vCenter=true&multiline=true&width=435&height=60&lines=+Hi,+I'm+Moises!+;)](https://git.io/typing-svg)
+##
 
-
-## Hi, I'm Moises! :D
 <div> 
-  <a href = "mailto:moisesssprg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mois%C3%A9s-almeida-674435245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = 'https://www.linkedin.com/in/moises-almeida-dev/'> <img width = '38px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" target="_blank"/></a> 
+  <a href = "mailto:moisesssprg@gmail.com"> <img width = '38px' align= 'center' src="https://www.pngrepo.com/png/271115/512/gmail.png" target="_blank"/></a>
 </div>
 
 <div align="center">
@@ -21,7 +21,6 @@
   <img align="center" alt="Moises-Flask" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
   <img align="center" alt="Moises-Django" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
 </div>
-  
-  ##
-  
+
+##
   
