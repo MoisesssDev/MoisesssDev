@@ -1,17 +1,18 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/164148375-75b79a9a-77a4-43df-b3fd-b6472d8a8670.png">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oxanium&duration=3000&pause=500&color=268040&vCenter=true&multiline=true&width=435&height=60&lines=+Hi,+I'm+Moises!+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oxanium&duration=3000&pause=500&color=3EDEB6&vCenter=true&multiline=true&width=435&height=60&lines=+Hi,+I'm+Moises!+;)](https://git.io/typing-svg)
 ##
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=268040&color:268040)](https://www.linkedin.com/in/moises-almeida-dev/)
-[![LinkedIn](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=Gmail&logoColor=268040&color:268040)](mailto:moisesssprg@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=3EDEB6&color:268040)](https://www.linkedin.com/in/moises-almeida-dev/)
+[![LinkedIn](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=Gmail&logoColor=3EDEB6&color:268040)](mailto:moisesssprg@gmail.com)
 
 
 <div >
   <a href="https://github.com/MoisesssDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoisesssDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
+
 
 <div style="display: inline_block" ><br>
   <img align="center" alt="Moises-Js" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
