@@ -1,14 +1,12 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="330" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/164148375-75b79a9a-77a4-43df-b3fd-b6472d8a8670.png">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oxanium&duration=3000&pause=500&color=32FF55DA&vCenter=true&multiline=true&width=435&height=60&lines=+Hi,+I'm+Moises!+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oxanium&duration=3000&pause=500&color=268040&vCenter=true&multiline=true&width=435&height=60&lines=+Hi,+I'm+Moises!+;)](https://git.io/typing-svg)
 ##
 
-<div> 
-  <a href = 'https://www.linkedin.com/in/moises-almeida-dev/'> <img width = '38px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" target="_blank"/></a> 
-  <a href = "mailto:moisesssprg@gmail.com"> <img width = '38px' align= 'center' src="https://www.pngrepo.com/png/271115/512/gmail.png" target="_blank"/></a>
-</div>
-<br>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=268040&color:268040)](https://www.linkedin.com/in/moises-almeida-dev/)
+[![LinkedIn](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=Gmail&logoColor=268040&color:268040)](mailto:moisesssprg@gmail.com)
+
 
 <div >
   <a href="https://github.com/MoisesssDev">
