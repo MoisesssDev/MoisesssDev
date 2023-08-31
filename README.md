@@ -1,3 +1,6 @@
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oxanium&duration=3000&pause=500&color=32FF55DA&vCenter=true&multiline=true&width=435&height=60&lines=+Hi,+I'm+Moises!+;)](https://git.io/typing-svg)
 ##
 
