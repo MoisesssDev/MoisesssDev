@@ -14,7 +14,7 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=MoisesssDev&show_icons=true&theme=tokyonight&hide_title=true&hide=stars"/>
 </div>
 
-
+<!--
 <div style="display: inline_block" ><br>
   <img align="center" alt="Moises-Js" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Moises-Elixir" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original-wordmark.svg" />
@@ -22,6 +22,7 @@
   <img align="center" alt="Moises-Ruby" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
   <img align="center" alt="Moises-Rails" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
 </div>
+-->
 
 ##
   
